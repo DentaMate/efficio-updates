@@ -1,7 +1,7 @@
 {
-  "version": "1.6.0",
-  "publishedAt": "2025-09-21T08:02:38Z",
-  "url": "https://github.com/DentaMate/efficio-updates/releases/download/v1.6.0/frontend_macos_v1.6.0.zip",
-  "sha256": "da0ee876b51e32e9b86e4a6414db61c3ef5fe527893a54ade2273a88a29d34c8",
-  "notes": "Automated build from release v1.6.0"
+  "version": "1.8.0",
+  "publishedAt": "2025-09-21T09:46:43Z",
+  "url": "https://github.com/DentaMate/efficio-updates/releases/download/v1.8.0/frontend_macos_v1.8.0.zip",
+  "sha256": "103c8f45fe9c0a462017af3eb02a214f54659419fdd15c274f2d1ac5d47fd446",
+  "notes": "Automated build from release v1.8.0"
 }
