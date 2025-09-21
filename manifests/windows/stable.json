@@ -1,1 +1,7 @@
-{ "version": "0.0.0", "publishedAt": "", "url": "", "sha256": "", "notes": "" }
+{
+  "version": "1.6.0",
+  "publishedAt": "2025-09-21T08:05:15Z",
+  "url": "https://github.com/DentaMate/efficio-updates/releases/download/v1.6.0/frontend_windows_v1.6.0.zip",
+  "sha256": "7aba00b1c898010dcaa146ede40925d1524f42016a317e214c94d6cc86fbbbbc",
+  "notes": "Automated build from release v1.6.0"
+}
