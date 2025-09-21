@@ -1,1 +1,7 @@
-{ "version": "0.0.0", "publishedAt": "", "url": "", "sha256": "", "notes": "" }
+{
+  "version": "1.6.0",
+  "publishedAt": "2025-09-21T08:02:38Z",
+  "url": "https://github.com/DentaMate/efficio-updates/releases/download/v1.6.0/frontend_macos_v1.6.0.zip",
+  "sha256": "da0ee876b51e32e9b86e4a6414db61c3ef5fe527893a54ade2273a88a29d34c8",
+  "notes": "Automated build from release v1.6.0"
+}
