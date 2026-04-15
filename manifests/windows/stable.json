@@ -1,8 +1,8 @@
 {
-  "version": "1.74.0",
-  "publishedAt": "2026-04-12T19:10:01Z",
-  "url": "https://github.com/DentaMate/efficio-updates/releases/download/frontend_v2-v1.74.0/frontend_windows_frontend_v2-v1.74.0.zip",
-  "sha256": "8b3898e6bf3f30ef0924c19b9e682bbd1ba4e813c6a9bbf224ef8ea54328dfb5",
+  "version": "1.77.0",
+  "publishedAt": "2026-04-15T22:16:47Z",
+  "url": "https://github.com/DentaMate/efficio-updates/releases/download/frontend_v2-v1.77.0/frontend_windows_frontend_v2-v1.77.0.zip",
+  "sha256": "15a6bdb607179485ba776453c61538b7275f2f4dc90d7d225def4bf57ff2ccfd",
   "websiteDownloadUrl": "https://www.efficiu.com/download",
-  "notes": "Automated build from release frontend_v2-v1.74.0"
+  "notes": "Automated build from release frontend_v2-v1.77.0"
 }
